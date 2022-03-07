@@ -9,7 +9,7 @@ This small project is dedicated to producing fan-made TheFatRat CD-labels
 
 ## Recreating
 
-All png exports are available under the [releases tab](releases)
+All png exports are available under the [releases tab](https://github.com/Eds-trash-can/thefatrat-CD/releases)
 
 Just print them out, glue the CD-label on a blank cd, and put together in a empty case.
 
