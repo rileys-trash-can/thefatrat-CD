@@ -9,7 +9,9 @@ This small project is dedicated to producing fan-made TheFatRat CD-labels
 
 ## Recreating
 
-All png exports are available under the [releases tab](releases)
+Please download inkscape and print from there (higher quality prints)
+
+
 
 Just print them out, glue the CD-label on a blank cd, and put together in a empty case.
 
